@@ -1,6 +1,6 @@
 {
   "name": "@mudasirchandio/simple-calculator",
-  "version": "4.0.1",
+  "version": "4.0.0",
   "description": "This is a simple-calculator",
   "main": "index.js",
   "type": "module",
