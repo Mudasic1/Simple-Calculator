@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculator",
+  "name": "@md/simple-calculator",
   "version": "1.0.0",
   "description": "This is a simple-calculator",
   "main": "index.js",
