@@ -1,6 +1,6 @@
 {
-  "name": "@md/simple-calculator",
-  "version": "1.0.0",
+  "name": "@mudasir/simple-calculator",
+  "version": "1.0.2",
   "description": "This is a simple-calculator",
   "main": "index.js",
   "type": "module",
